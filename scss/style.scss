@@ -18,11 +18,15 @@
   width: 100%;
   font-family: "jost", font-family;
 
-  .modal__menu__container {
+  /*-----------------------------------------*/
+
+  .b-modal__menu__container-js {
     display: none;
   }
 
-  .header {
+  /*-----------------------------------------*/
+
+  .b-header {
     width: 100%;
     height: 780px;
     display: flex;
@@ -156,7 +160,10 @@
       }
     }
   }
-  .services {
+
+  /*-----------------------------------------*/
+
+  .b-services {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -313,7 +320,10 @@
       }
     }
   }
-  .media__middle {
+
+  /*-----------------------------------------*/
+
+  .b-media__middle {
     display: flex;
     justify-content: center;
     width: 100%;
@@ -405,7 +415,10 @@
       }
     }
   }
-  .personal {
+
+  /*-----------------------------------------*/
+
+  .b-personal {
     display: flex;
     justify-content: center;
     margin-top: 100px;
@@ -466,7 +479,10 @@
       }
     }
   }
-  .feedback {
+
+  /*-----------------------------------------*/
+
+  .b-feedback {
     display: flex;
     justify-content: center;
     margin-top: 200px;
@@ -528,7 +544,10 @@
       }
     }
   }
-  .news {
+
+  /*-----------------------------------------*/
+
+  .b-news {
     display: flex;
     justify-content: center;
     margin-top: 200px;
@@ -584,7 +603,9 @@
     }
   }
 
-  .footer {
+  /*-----------------------------------------*/
+
+  .b-footer {
     width: 100%;
     display: flex;
     justify-content: center;
